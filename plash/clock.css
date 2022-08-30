@@ -1,0 +1,18 @@
+body{
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+
+.clock{
+    color: white;
+    opacity: 60%;
+    font-size: 7em;
+    text-align: center;
+    font-family: 'Menlo';
+}
