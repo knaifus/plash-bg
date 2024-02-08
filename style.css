@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body {
+  font-family: sans-serif;
+  background-color: #faf0dd;
+}
+body .container {
+  width: 900px;
+  margin: 70px auto 0px auto;
+  text-align: center;
+}
+
+.effect {
+  text-align: center;
+  margin:10px;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  color: #fff;
+  text-transform: capitalize;
+  background-color:rgb(237, 208, 121);
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  padding: 10px 0px;
+  width: 100px;
+  border-radius: 6px;
+  overflow: hidden;
+  transition: all 0.2s linear 0s;
+
+}
+
+.effect:hover {
+  opacity: .5;
+  background-color:rgb(237, 121, 198);
+
+}
+
