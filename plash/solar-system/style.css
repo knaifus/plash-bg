@@ -147,8 +147,8 @@ code {
   width: 70px;
   margin-top: -35px;
   margin-left: -35px;
-  -webkit-animation: orb 7.1867343561s linear infinite;
-          animation: orb 7.1867343561s linear infinite;
+  -webkit-animation: orb 28.9010210091s linear infinite;
+          animation: orb 28.9010210091s linear infinite;
 }
 .mercury:before {
   height: 4px;
@@ -163,8 +163,8 @@ code {
   width: 100px;
   margin-top: -50px;
   margin-left: -50px;
-  -webkit-animation: orb 18.4555338265s linear infinite;
-          animation: orb 18.4555338265s linear infinite;
+  -webkit-animation: orb 73.8224638425s linear infinite;
+          animation: orb 73.8224638425s linear infinite;
 }
 .venus:before {
   height: 8px;
@@ -179,8 +179,8 @@ code {
   width: 145px;
   margin-top: -72.5px;
   margin-left: -72.5px;
-  -webkit-animation: orb 30s linear infinite;
-          animation: orb 30s linear infinite;
+  -webkit-animation: orb 120s linear infinite;
+          animation: orb 120s linear infinite;
 }
 .earth:before {
   height: 6px;
@@ -200,8 +200,8 @@ code {
   margin-top: -9px;
   border-radius: 100px;
   box-shadow: 0 -10px 0 -8px grey;
-  -webkit-animation: orb 2.2440352158s linear infinite;
-          animation: orb 2.2440352158s linear infinite;
+  -webkit-animation: orb 8.9761408633s linear infinite;
+          animation: orb 8.9761408633s linear infinite;
 }
 
 .mars {
@@ -209,8 +209,8 @@ code {
   width: 190px;
   margin-top: -95px;
   margin-left: -95px;
-  -webkit-animation: orb 56.4261314589s linear infinite;
-          animation: orb 56.4261314589s linear infinite;
+  -webkit-animation: orb 225.6979551071s linear infinite;
+          animation: orb 225.6979551071s linear infinite;
 }
 .mars:before {
   height: 6px;
@@ -225,8 +225,8 @@ code {
   width: 340px;
   margin-top: -170px;
   margin-left: -170px;
-  -webkit-animation: orb 355.7228171013s linear infinite;
-          animation: orb 355.7228171013s linear infinite;
+  -webkit-animation: orb 1423.4133127889s linear infinite;
+          animation: orb 1423.4133127889s linear infinite;
 }
 .jupiter:before {
   height: 18px;
@@ -241,8 +241,8 @@ code {
   width: 440px;
   margin-top: -220px;
   margin-left: -220px;
-  -webkit-animation: orb 882.6952471456s linear infinite;
-          animation: orb 882.6952471456s linear infinite;
+  -webkit-animation: orb 3534.7957037291s linear infinite;
+          animation: orb 3534.7957037291s linear infinite;
 }
 .saturn:before {
   height: 12px;
@@ -263,8 +263,8 @@ code {
   margin-top: -1.2%;
   border-radius: 50% 50% 50% 50%;
   box-shadow: 0 1px 0 1px #987641, 3px 1px 0 #987641, -3px 1px 0 #987641;
-  -webkit-animation: orb 882.6952471456s linear infinite;
-          animation: orb 882.6952471456s linear infinite;
+  -webkit-animation: orb 3530.7809885825s linear infinite;
+          animation: orb 3530.7809885825s linear infinite;
   animation-direction: reverse;
   transform-origin: 52% 60%;
 }
@@ -274,8 +274,8 @@ code {
   width: 520px;
   margin-top: -260px;
   margin-left: -260px;
-  -webkit-animation: orb 2512.4001967933s linear infinite;
-          animation: orb 2512.4001967933s linear infinite;
+  -webkit-animation: orb 10081.2716988044s linear infinite;
+          animation: orb  10081.2716988044s linear infinite;
 }
 .uranus:before {
   height: 10px;
@@ -290,8 +290,8 @@ code {
   width: 630px;
   margin-top: -315px;
   margin-left: -315px;
-  -webkit-animation: orb 4911.7838624549s linear infinite;
-          animation: orb 4911.7838624549s linear infinite;
+  -webkit-animation: orb 19774.2790473429 linear infinite;
+          animation: orb 19774.2790473429 linear infinite;
 }
 .neptune:before {
   height: 10px;
@@ -308,8 +308,8 @@ code {
   width: 300px;
   margin-top: -150px;
   margin-left: -150px;
-  -webkit-animation: orb 179.9558282773s linear infinite;
-          animation: orb 179.9558282773s linear infinite;
+  -webkit-animation: orb 719.8233131092s linear infinite;
+          animation: orb 719.8233131092s linear infinite;
   overflow: hidden;
 }
 .asteroids-belt:before {
@@ -328,8 +328,8 @@ code {
   width: 780px;
   margin-top: -450px;
   margin-left: -320px;
-  -webkit-animation: orb 7439.7074054575s linear infinite;
-          animation: orb 7439.7074054575s linear infinite;
+  -webkit-animation: orb 29752.2588932758s linear infinite;
+          animation: orb 29752.2588932758s linear infinite;
 }
 .pluto:before {
   height: 3px;
